@@ -1,8 +1,8 @@
 apt-get update
 
-apt install speedtest-cli
-
 apt-get upgrade -y
+
+apt install speedtest-cli
 
 sudo git clone https://github.com/iamtrazy/bash-xray-script
 
