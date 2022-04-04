@@ -1,4 +1,4 @@
-sudo -s
+
 
 apt-get update
 
