@@ -1,5 +1,3 @@
-
-
 apt-get update
 
 apt install speedtest-cli
