@@ -21,11 +21,17 @@ wget https://raw.githubusercontent.com/ImDarkLK/Auto-Xray/main/xray.sh -O xray.s
 
 ### Unistallation
 
-``` Remove Xray-Core and all Modified Config Files From The Server Without BBR ```
-
 ```
 wget https://raw.githubusercontent.com/ImDarkLK/Auto-Xray/main/rem-xray.sh -O rem-xray.sh && sudo bash ./rem-xray.sh
 ```
+
+✯ This Script Removing ,
+
+* Full Xray-Core
+
+* All Modified Config Files
+
+♕ This Script Won't Removing <b> BBR</b> ✓
 
 ## Credits 
 
