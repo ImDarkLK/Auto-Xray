@@ -19,6 +19,14 @@ wget https://raw.githubusercontent.com/ImDarkLK/Auto-Xray/main/xray.sh -O xray.s
 
 ``` XTLS Port = 443 ```
 
+### Unistallation
+
+``` Remove Xray-Core and all Modified Config Files From The Server Without BBR ```
+
+```
+wget https://github.com/ImDarkLK/Auto-Xray/raw/main/rem-xray.sh -O rem-xray.sh && sudo bash ./rem-xray.sh
+```
+
 ## Credits 
 
 ✓ BBR Auto-Script [HERE](https://github.com/teddysun)
