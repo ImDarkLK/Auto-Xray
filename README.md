@@ -1,7 +1,7 @@
 # Bash Auto-Xray Script
 > Auto-Script For Trazy's Bash Xray Script 🖤
 
-### Requirements
+### ❗ Requirements ❗
 
 * Ubuntu 20.04 or Ubuntu-latest OS VPS 
 * Generate Version 4 UUID [HERE](https://uuidgenerator.net)
@@ -9,7 +9,7 @@
 * Android User - V2RayNG [HERE](https://github.com/2dust/v2rayNG)
 * Windows User - V2RayN | Netch
 
-### Installation 
+### ⭕ Installation ⭕
 
 ```
 wget https://raw.githubusercontent.com/ImDarkLK/Auto-Xray/main/xray.sh -O xray.sh && sudo bash ./xray.sh 
@@ -19,7 +19,7 @@ wget https://raw.githubusercontent.com/ImDarkLK/Auto-Xray/main/xray.sh -O xray.s
 
 ``` XTLS Port = 443 ```
 
-### Unistallation
+### ❌ Unistallation ❌
 
 ```
 wget https://raw.githubusercontent.com/ImDarkLK/Auto-Xray/main/rem-xray.sh -O rem-xray.sh && sudo bash ./rem-xray.sh
@@ -33,7 +33,13 @@ wget https://raw.githubusercontent.com/ImDarkLK/Auto-Xray/main/rem-xray.sh -O re
 
 ♕ This Script Won't Removing <b> BBR</b> ✓
 
-## Credits 
+### ♻️ Updates ♻️
+
+* Configs Flow Changed <br> (xtls-rprx-direct to xtls-rprx-vision) <br>
+* Speed Improvements <br>
+* More Stable <br>
+
+## 〽️ Credits 〽️
 
 ✓ BBR Auto-Script [HERE](https://github.com/teddysun)
 
